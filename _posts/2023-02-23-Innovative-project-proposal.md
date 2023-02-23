@@ -38,10 +38,14 @@ This homework is to propose an innovative project and describe the key features,
 2. 食物辨識分類：Jetson-Nano + IMX219
 3. 電子鼻：氣味感測與辨識 MQ2
 
+##藍芽控制機器人
+![](https://github.com/rkuo2023/MCU-project/blob/main/images/AppInventor2_BLE2RC_Designer.png?raw=true)
+
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-![]https://github.com/rkuo2023/MCU-project/blob/main/images/AppInventor2_BLE2RC_Designer.png?raw=true
 
+
+<iframe width="1239" height="697" src="https://www.youtube.com/embed/KAtwrDC9QCg" title="印度神話並非虛構！印度海岸驚現170萬年前的跨海大橋！證實「羅摩衍那」記載上古文明建造的跨海工程！| 腦補大轟炸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ## Market Analysis (市場分析)
 ![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
