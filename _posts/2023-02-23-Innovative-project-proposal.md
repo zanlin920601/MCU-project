@@ -38,6 +38,9 @@ This homework is to propose an innovative project and describe the key features,
 2. 食物辨識分類：Jetson-Nano + IMX219
 3. 電子鼻：氣味感測與辨識 MQ2
 
+**自走車材料套件：**
+![](https://image.ruten.com.tw/g2/3/17/f6/21939070385142_353.jpg)
+
 ## 藍芽控制機器人
 ![](https://github.com/rkuo2023/MCU-project/blob/main/images/AppInventor2_BLE2RC_Designer.png?raw=true)
 
