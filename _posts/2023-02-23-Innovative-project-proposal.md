@@ -20,29 +20,26 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人
+## 智慧浴室空調
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 控制溫熱水
+2. 調整室內濕氣
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
+1. 操作方式:系統自動控制水溫、濕氣
+2. 供電方式:家庭供電
 4. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 溫度感測器
+2. 濕度辨識
+3. 電子空調
 
-**自走車材料套件：**
-![](https://image.ruten.com.tw/g2/3/17/f6/21939070385142_353.jpg)
+**示意圖：**
+![image](https://user-images.githubusercontent.com/76434082/225627621-19b7b638-fed7-4621-9b95-14f55b2ee000.png)
 
-## 藍芽控制機器人
-![](https://github.com/rkuo2023/MCU-project/blob/main/images/AppInventor2_BLE2RC_Designer.png?raw=true)
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
