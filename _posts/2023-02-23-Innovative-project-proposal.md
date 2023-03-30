@@ -42,11 +42,10 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/%E6%96%B9%E5%A1%8A%E5%9C%96.png)
 
 ### 參考範例
-<iframe width="954" height="537" src="https://www.youtube.com/embed/d7NcoepWlyU" title="Real time reinforcement learning demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/CfGM0m4z9ic" title="🧖大金浴室專用空調↪️冷氣加上浴室暖風乾燥機..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
 
