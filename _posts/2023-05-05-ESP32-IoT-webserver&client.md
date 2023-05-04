@@ -4,9 +4,6 @@ title: ESP32 IoT webserver & client
 author: [Kevin Chuang]
 category: [Lecture]
 tags: [jekyll, ai]
----
-
-This project is to implement a bluetooth remote controlled robotcar.
 
 ---
 ## ESP32 IoT webserver & client
