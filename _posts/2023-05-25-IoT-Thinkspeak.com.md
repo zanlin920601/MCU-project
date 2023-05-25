@@ -11,7 +11,7 @@ tags: [jekyll, ai]
 1. 操作方式:將心跳血氧sensor連接ESP32，並將數據上傳Iot網站
 
 ### 程式碼
-**ESP32_Webclient_IoT_HTU21DF：**
+**NodeMCU_thingspeak_DHT11：**
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/052513.png?raw=true)
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/052514.png?raw=true)
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/052515.png?raw=true)
