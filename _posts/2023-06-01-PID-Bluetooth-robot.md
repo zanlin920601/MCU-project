@@ -28,7 +28,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/.jpg?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/PID.jpg?raw=true)
 
 ### 程式碼
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/1.png?raw=true)
