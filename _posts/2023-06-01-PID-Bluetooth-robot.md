@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 This project is to implement a bluetooth remote controlled robotcar.
 
 ---
-## 藍牙遙控機器人
+## PID 遙控小車
 ![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
 
 ### 設計考量與相關技術
@@ -22,12 +22,13 @@ This project is to implement a bluetooth remote controlled robotcar.
 **所需相關技術：**
 1. MIT App Inventor 2 手機程式設計 
 2. Arduino程式設計
+3. DRV8833 馬達驅動
 
 **所需相關套件:**
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/CAR2.jpg?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/.jpg?raw=true)
 
 ### 程式碼
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/1.png?raw=true)
