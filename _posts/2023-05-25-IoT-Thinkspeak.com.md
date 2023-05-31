@@ -16,8 +16,13 @@ tags: [jekyll, ai]
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/052514.png?raw=true)
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/052515.png?raw=true)
 
-### 成果影片
-**實際操作：**
+### 系統方塊圖
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/thinkspeak.jpg?raw=true)
+
+### 成果照片
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/0601.jpg?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06012.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06013.jpg?raw=true)
 
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
