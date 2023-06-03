@@ -10,11 +10,10 @@ tags: [jekyll, ai]
 **系統設計考量：**<br>
 1. 操作方式:連接ESP傳送數據至電腦
 
+### 系統方塊圖
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/MPUPLANE.png?raw=true)
+
 ### 程式碼
-**ESP32_Webclient_IoT_HTU21DF：**
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/04111.png?raw=true)
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/04112.png?raw=true)
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/04113.png?raw=true)
 **MPU6050_DMP6_Teapot：**
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/04114.png?raw=true)
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/04115.png?raw=true)
