@@ -10,6 +10,9 @@ tags: [jekyll, ai]
 **系統設計考量：**<br>
 1. 操作方式:將心跳血氧sensor連接ESP32
 
+### 系統方塊圖
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/HEARTBEAT.png?raw=true)
+
 ### 程式碼
 **ESP32_Webclient_IoT_HTU21DF：**
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/05181.png?raw=true)
