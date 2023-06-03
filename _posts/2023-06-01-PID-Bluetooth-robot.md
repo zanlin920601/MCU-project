@@ -1,14 +1,11 @@
 ---
 layout: post
 title: PID 遙控小車
-author: [Richard Kuo]
+author: [Kevin Chuang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This project is to implement a bluetooth remote controlled robotcar.
-
----
 ## PID 遙控小車
 ![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
 
@@ -31,12 +28,20 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://github.com/zanlin920601/MCU-project/blob/main/images/PID.jpg?raw=true)
 
 ### 程式碼
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/1.png?raw=true)
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/232.png?raw=true)
-![](https://github.com/zanlin920601/MCU-project/blob/main/images/3.png?raw=true)
-### 實作影片
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06031.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06032.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06033.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06034.png?raw=true)
+![](https://github.com/zanlin920601/MCU-project/blob/main/images/06035.png?raw=true)
 
+### 實作心得
+老師您好，我已更新心跳血氧偵測器、ESP32慣性元件之方塊圖，拜託老師再次查閱了🙏；
+另外我在作業區沒有放到IoT Thinkspeak的作業連結，在此補上
+https://zanlin920601.github.io/MCU-project/lecture/2023/05/25/IoT-Thinkspeak.com.html
+還麻煩老師查閱，辛苦老師這學期的教學了！
 
+雖然弄到最後還是無法把PID弄出來，十分可惜，但我覺得我在這堂課還是學了很多東西，像是操縱Githut、ESP32的應用、Iot的初體驗等等...
+在這堂課獲益真的非常良多，希望老師日後能帶來更多優質的課程！
 <br>
 <br>
 
